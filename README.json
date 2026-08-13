@@ -1,0 +1,640 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Legend"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Open Source"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📕🍎🤖🔁 AppFlowy",
+          "description": "Open source alternative to Notion. Supports macOS, Windows, Linux, iOS, and Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-11T13:01:19Z",
+            "owner": "AppFlowy-IO",
+            "repo": "AppFlowy",
+            "stars": 75347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖🍎🤖🔁 GitJournal",
+          "description": "Open source markdown notes editor with integrated Git syncing. Supports iOS, Android, Linux, and macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-05-26T13:49:39Z",
+            "owner": "GitJournal",
+            "repo": "GitJournal",
+            "stars": 4203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📕 treesheets",
+          "description": "Free form data organizer using hierarchical spreadsheet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T18:37:19Z",
+            "owner": "aardappel",
+            "repo": "treesheets",
+            "stars": 3098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🤖🔁⚠️ Tomboy",
+          "description": "GNOME desktop note-taking application for Linux, Windows, and macOS. Original project abandoned; see tomboy-ng for the active successor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2026-08-02T11:39:52Z",
+            "owner": "tomboy-notes",
+            "repo": "tomboy-ng",
+            "stars": 446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📕 Revu",
+          "description": "Local-first spaced repetition note-taking app for macOS with FSRS scheduling, Anki import, and study guides.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-04-12T18:00:32Z",
+            "owner": "JuliusBrussee",
+            "repo": "revu-swift",
+            "stars": 362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📕🍎🔁 DailyVox",
+          "description": "Free AI voice diary for iOS with on-device transcription, mood tracking, Digital Twin, and knowledge graph. 100% offline, optional iCloud sync.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T08:03:27Z",
+            "owner": "intrepidkarthi",
+            "repo": "dailyvox",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Native GUI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📖 nb",
+          "description": "A command line and local web note-taking, bookmarking, archiving, and knowledge base application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T00:01:40Z",
+            "owner": "xwmx",
+            "repo": "nb",
+            "stars": 8353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 todo-txt",
+          "description": "A simple and extensible shell script for managing your todo.txt file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T13:30:23Z",
+            "owner": "todotxt",
+            "repo": "todo.txt-cli",
+            "stars": 6155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 zk",
+          "description": "A command-line tool helping you to maintain a plain text Zettelkasten or personal wiki.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T23:33:33Z",
+            "owner": "zk-org",
+            "repo": "zk",
+            "stars": 2758
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 IWE",
+          "description": "A markdown-based knowledge management tool with CLI and LSP server. Turns markdown files into a navigable graph with backlinks and link completion. Works with VS Code, Neovim, Zed, and Helix.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T22:51:28Z",
+            "owner": "iwe-org",
+            "repo": "iwe",
+            "stars": 1395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📕 lifeos-cli",
+          "description": "A terminal-native LifeOS for notes, linked tasks, schedules, events, and timelogs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:25:21Z",
+            "owner": "lifeos-plus",
+            "repo": "lifeos-cli",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "CLI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📖 Toney",
+          "description": "A fast, lightweight, terminal-based note-taking app for the modern developer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-27T06:13:16Z",
+            "owner": "SourcewareLab",
+            "repo": "Toney",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 FuzPad",
+          "description": "A minimalistic note management solution powered by fzf.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-11-12T14:13:22Z",
+            "owner": "JianZcar",
+            "repo": "FuzPad",
+            "stars": 164
+          }
+        }
+      ],
+      "title": "TUI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📖 vim-wiki",
+          "description": "A personal wiki for Vim — a number of linked text files with their own syntax highlighting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-04-30T18:15:10Z",
+            "owner": "vimwiki",
+            "repo": "vimwiki",
+            "stars": 9504
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "🤖 Emacs",
+          "description": "An open source, cross-platform, extensible, and customizable text editor.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📖⚠️ Org-brain",
+              "description": "Concept mapping in Emacs using org-mode. Last commit 2023; appears unmaintained.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Emacs Lisp",
+                "last_commit": "2024-07-03T20:50:02Z",
+                "owner": "Kungsgeten",
+                "repo": "org-brain",
+                "stars": 1771
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📖 Deft",
+              "description": "An Emacs mode for quickly browsing, filtering, and editing directories of plain text notes, inspired by Notational Velocity.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Emacs Lisp",
+                "last_commit": "2024-05-24T15:24:04Z",
+                "owner": "jrblevin",
+                "repo": "deft",
+                "stars": 760
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Visual Studio Code - Microsoft text editor.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📖 Emanote",
+              "description": "A structured view of your plain-text notes. Successor to Neuron.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Haskell",
+                "last_commit": "2026-07-26T02:43:15Z",
+                "owner": "srid",
+                "repo": "emanote",
+                "stars": 954
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Editor Plugin"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📕🔁 AFFiNE",
+          "description": "Next-gen knowledge base that brings planning, sorting, and creating all together. Privacy first, open-source, customizable and ready to use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T12:45:55Z",
+            "owner": "toeverything",
+            "repo": "AFFiNE",
+            "stars": 71517
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📕🍎🤖🔁 SiYuan",
+          "description": "A privacy-first, self-hosted, fully open source personal knowledge management software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T16:25:27Z",
+            "owner": "siyuan-note",
+            "repo": "siyuan",
+            "stars": 45789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖🍎🤖🔁 Logseq",
+          "description": "Local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-13T08:33:16Z",
+            "owner": "logseq",
+            "repo": "logseq",
+            "stars": 44432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖🍎🤖🔒🔁 Standard Notes",
+          "description": "A free, open-source, and completely encrypted notes app for macOS, Windows, Linux, iOS, and Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T19:21:42Z",
+            "owner": "standardnotes",
+            "repo": "app",
+            "stars": 6582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖🤖🔁 TidGi",
+          "description": "Customizable personal knowledge-base with git as backup manager and blogging platform, based on TiddlyWiki.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T06:07:26Z",
+            "owner": "tiddly-gittly",
+            "repo": "TidGi-Desktop",
+            "stars": 2000
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 btw",
+          "description": "Open source personal website builder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T08:08:16Z",
+            "owner": "btw-so",
+            "repo": "btw",
+            "stars": 1189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 Linked",
+          "description": "Forget less by daily journaling, completely offline, secure, and free. Supports macOS, Windows, and Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-17T06:32:50Z",
+            "owner": "lostdesign",
+            "repo": "linked",
+            "stars": 1018
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 SwarmVault",
+          "description": "Local-first RAG knowledge base compiler with persistent markdown wiki, knowledge graph, hybrid SQLite FTS and embeddings, contradiction detection, and built-in MCP server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T20:28:43Z",
+            "owner": "swarmclawai",
+            "repo": "swarmvault",
+            "stars": 655
+          }
+        }
+      ],
+      "title": "Electron"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📖 Inkwell",
+          "description": "Portable Markdown editor with split view, live preview, themes, templates, focus mode, and diff viewer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-12T19:52:00Z",
+            "owner": "4worlds4w-svg",
+            "repo": "inkwell",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 Stik",
+          "description": "Instant thought capture for macOS. Global hotkey summons a post-it note, type and close. Notes stored as plain markdown files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T18:22:45Z",
+            "owner": "0xMassi",
+            "repo": "stik_app",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖🍎 Char",
+          "description": "Open-source AI notepad for meetings with flexible AI stack and on-device storage.",
+          "children": []
+        }
+      ],
+      "title": "Tauri"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📖🔁 Memos",
+          "description": "Lightweight, self-hosted memo hub. Privacy first.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T16:10:23Z",
+            "owner": "usememos",
+            "repo": "memos",
+            "stars": 62227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 Outline",
+          "description": "Fast, collaborative team knowledge base. Self-hosted or cloud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T22:50:45Z",
+            "owner": "outline",
+            "repo": "outline",
+            "stars": 40108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 Docmost",
+          "description": "Open-source collaborative wiki and documentation software. Notion/Confluence alternative with real-time collaboration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T22:43:28Z",
+            "owner": "docmost",
+            "repo": "docmost",
+            "stars": 21350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖🍎🤖🔒🔁 Notesnook",
+          "description": "Fully open source and end-to-end encrypted note-taking app available on all platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T10:51:19Z",
+            "owner": "streetwriters",
+            "repo": "notesnook",
+            "stars": 14404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖⚠️ CodiMD",
+          "description": "The free software version of HackMD. See HedgeDoc for the active community fork.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-02T02:51:07Z",
+            "owner": "hackmdio",
+            "repo": "codimd",
+            "stars": 10129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 TiddlyWiki",
+          "description": "A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T10:21:20Z",
+            "owner": "TiddlyWiki",
+            "repo": "TiddlyWiki5",
+            "stars": 8626
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 HedgeDoc",
+          "description": "Real-time collaborative markdown notes. Community successor to CodiMD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T23:48:08Z",
+            "owner": "hedgedoc",
+            "repo": "hedgedoc",
+            "stars": 7366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 SilverBullet",
+          "description": "Free, open-source self-hosted PWA for markdown notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T07:14:17Z",
+            "owner": "silverbulletmd",
+            "repo": "silverbullet",
+            "stars": 5835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 Flatnotes",
+          "description": "Self-hosted, database-less, plain-text markdown note-taking app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-02T11:19:11Z",
+            "owner": "dullage",
+            "repo": "flatnotes",
+            "stars": 3178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 Ephe",
+          "description": "A Markdown paper for daily todo and thoughts. Privacy first, OSS, local-only.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T14:49:30Z",
+            "owner": "unvalley",
+            "repo": "ephe",
+            "stars": 583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 NattyNote",
+          "description": "A free, open-source browser extension to take time-stamped YouTube notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-13T08:50:03Z",
+            "owner": "ahmedelq",
+            "repo": "NattyNote",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📕 Solo",
+          "description": "Minimalistic private note-taking app with focus on typography.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-02T08:45:14Z",
+            "owner": "johnSamilin",
+            "repo": "solo",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Web UI"
+    },
+    {
+      "description": "A side-by-side overview of the most popular tools to help you choose:",
+      "items": [],
+      "title": "Quick Comparison"
+    },
+    {
+      "description": "Contributions are very welcome! Please, read the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T22:59:05.747Z",
+    "original_repository": "tehtbl/awesome-note-taking",
+    "original_repository_sha": "073687fe67ccf8e9eac805a1834f358144a05900",
+    "enhanced_repository": "enhansome/enhansome-note-taking",
+    "enhanced_repository_description": null,
+    "title": "Awesome note taking with stars"
+  }
+}
