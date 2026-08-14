@@ -24,7 +24,7 @@
             "last_commit": "2026-08-11T13:01:19Z",
             "owner": "AppFlowy-IO",
             "repo": "AppFlowy",
-            "stars": 75347
+            "stars": 75406
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2026-08-13T18:37:19Z",
             "owner": "aardappel",
             "repo": "treesheets",
-            "stars": 3098
+            "stars": 3099
           }
         },
         {
@@ -91,7 +91,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-13T08:03:27Z",
+            "last_commit": "2026-08-14T12:28:05Z",
             "owner": "intrepidkarthi",
             "repo": "dailyvox",
             "stars": 14
@@ -114,7 +114,7 @@
             "last_commit": "2026-08-13T00:01:40Z",
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8353
+            "stars": 8354
           }
         },
         {
@@ -128,7 +128,7 @@
             "last_commit": "2026-08-13T13:30:23Z",
             "owner": "todotxt",
             "repo": "todo.txt-cli",
-            "stars": 6155
+            "stars": 6156
           }
         },
         {
@@ -142,7 +142,7 @@
             "last_commit": "2026-08-03T23:33:33Z",
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2758
+            "stars": 2761
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-12T22:51:28Z",
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1395
+            "stars": 1405
           }
         },
         {
@@ -167,7 +167,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T18:25:21Z",
+            "last_commit": "2026-08-14T04:33:32Z",
             "owner": "lifeos-plus",
             "repo": "lifeos-cli",
             "stars": 11
@@ -224,7 +224,7 @@
             "last_commit": "2026-04-30T18:15:10Z",
             "owner": "vimwiki",
             "repo": "vimwiki",
-            "stars": 9504
+            "stars": 9506
           }
         },
         {
@@ -297,10 +297,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T12:45:55Z",
+            "last_commit": "2026-08-14T09:50:48Z",
             "owner": "toeverything",
             "repo": "AFFiNE",
-            "stars": 71517
+            "stars": 71551
           }
         },
         {
@@ -311,10 +311,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T16:25:27Z",
+            "last_commit": "2026-08-14T16:54:18Z",
             "owner": "siyuan-note",
             "repo": "siyuan",
-            "stars": 45789
+            "stars": 45800
           }
         },
         {
@@ -328,7 +328,7 @@
             "last_commit": "2026-08-13T08:33:16Z",
             "owner": "logseq",
             "repo": "logseq",
-            "stars": 44432
+            "stars": 44452
           }
         },
         {
@@ -356,7 +356,7 @@
             "last_commit": "2026-08-12T06:07:26Z",
             "owner": "tiddly-gittly",
             "repo": "TidGi-Desktop",
-            "stars": 2000
+            "stars": 1999
           }
         },
         {
@@ -370,7 +370,7 @@
             "last_commit": "2026-08-10T08:08:16Z",
             "owner": "btw-so",
             "repo": "btw",
-            "stars": 1189
+            "stars": 1190
           }
         },
         {
@@ -398,7 +398,7 @@
             "last_commit": "2026-06-30T20:28:43Z",
             "owner": "swarmclawai",
             "repo": "swarmvault",
-            "stars": 655
+            "stars": 656
           }
         }
       ],
@@ -458,7 +458,7 @@
             "last_commit": "2026-08-13T16:10:23Z",
             "owner": "usememos",
             "repo": "memos",
-            "stars": 62227
+            "stars": 62239
           }
         },
         {
@@ -469,10 +469,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T22:50:45Z",
+            "last_commit": "2026-08-14T22:14:28Z",
             "owner": "outline",
             "repo": "outline",
-            "stars": 40108
+            "stars": 40151
           }
         },
         {
@@ -483,10 +483,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T22:43:28Z",
+            "last_commit": "2026-08-14T22:14:17Z",
             "owner": "docmost",
             "repo": "docmost",
-            "stars": 21350
+            "stars": 21363
           }
         },
         {
@@ -497,10 +497,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T10:51:19Z",
+            "last_commit": "2026-08-14T11:39:58Z",
             "owner": "streetwriters",
             "repo": "notesnook",
-            "stars": 14404
+            "stars": 14410
           }
         },
         {
@@ -514,7 +514,7 @@
             "last_commit": "2025-10-02T02:51:07Z",
             "owner": "hackmdio",
             "repo": "codimd",
-            "stars": 10129
+            "stars": 10130
           }
         },
         {
@@ -525,7 +525,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T10:21:20Z",
+            "last_commit": "2026-08-14T10:56:09Z",
             "owner": "TiddlyWiki",
             "repo": "TiddlyWiki5",
             "stars": 8626
@@ -542,7 +542,7 @@
             "last_commit": "2026-08-11T23:48:08Z",
             "owner": "hedgedoc",
             "repo": "hedgedoc",
-            "stars": 7366
+            "stars": 7369
           }
         },
         {
@@ -556,7 +556,7 @@
             "last_commit": "2026-08-11T07:14:17Z",
             "owner": "silverbulletmd",
             "repo": "silverbullet",
-            "stars": 5835
+            "stars": 5844
           }
         },
         {
@@ -630,7 +630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T22:59:05.747Z",
+    "last_updated": "2026-08-14T22:37:32.569Z",
     "original_repository": "tehtbl/awesome-note-taking",
     "original_repository_sha": "073687fe67ccf8e9eac805a1834f358144a05900",
     "enhanced_repository": "enhansome/enhansome-note-taking",
