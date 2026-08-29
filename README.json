@@ -21,7 +21,7 @@
                 "open_issues": 1008,
                 "owner": "AppFlowy-IO",
                 "repo": "AppFlowy",
-                "stars": 76044,
+                "stars": 76047,
                 "topics": [
                   "blog",
                   "confluence-alternative",
@@ -609,7 +609,7 @@
                 "open_issues": 714,
                 "owner": "toeverything",
                 "repo": "AFFiNE",
-                "stars": 71984,
+                "stars": 71986,
                 "topics": [
                   "app",
                   "crdt",
@@ -645,7 +645,7 @@
                 "id": 291438522,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-29T03:34:12Z",
+                "last_commit": "2026-08-29T04:27:09Z",
                 "open_issues": 49,
                 "owner": "siyuan-note",
                 "repo": "siyuan",
@@ -690,7 +690,7 @@
                 "open_issues": 963,
                 "owner": "logseq",
                 "repo": "logseq",
-                "stars": 44672,
+                "stars": 44673,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -991,7 +991,7 @@
                 "open_issues": 45,
                 "owner": "usememos",
                 "repo": "memos",
-                "stars": 62625,
+                "stars": 62626,
                 "topics": [
                   "docker",
                   "foss",
@@ -1026,7 +1026,7 @@
                 "open_issues": 82,
                 "owner": "outline",
                 "repo": "outline",
-                "stars": 40366,
+                "stars": 40367,
                 "topics": [
                   "docker",
                   "javascript",
@@ -1381,7 +1381,7 @@
             "open_issues": 963,
             "owner": "logseq",
             "repo": "logseq",
-            "stars": 44672,
+            "stars": 44673,
             "topics": [
               "clojure",
               "clojurescript",
@@ -1410,7 +1410,7 @@
             "id": 291438522,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T03:34:12Z",
+            "last_commit": "2026-08-29T04:27:09Z",
             "open_issues": 49,
             "owner": "siyuan-note",
             "repo": "siyuan",
@@ -1455,7 +1455,7 @@
             "open_issues": 714,
             "owner": "toeverything",
             "repo": "AFFiNE",
-            "stars": 71984,
+            "stars": 71986,
             "topics": [
               "app",
               "crdt",
@@ -1495,7 +1495,7 @@
             "open_issues": 1008,
             "owner": "AppFlowy-IO",
             "repo": "AppFlowy",
-            "stars": 76044,
+            "stars": 76047,
             "topics": [
               "blog",
               "confluence-alternative",
@@ -1589,7 +1589,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:42:23.157Z",
+    "last_updated": "2026-08-29T04:37:03.371Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.",
