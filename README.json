@@ -12,12 +12,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+                "homepage": "https://appflowy.com",
                 "id": 377496562,
                 "language": "Dart",
-                "last_commit": "2026-08-11T13:01:19Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-28T06:32:59Z",
+                "open_issues": 1008,
                 "owner": "AppFlowy-IO",
                 "repo": "AppFlowy",
-                "stars": 76021
+                "stars": 76044,
+                "topics": [
+                  "blog",
+                  "confluence-alternative",
+                  "content-management",
+                  "content-services",
+                  "documentation",
+                  "flutter",
+                  "note-taking",
+                  "notion-alternative",
+                  "project-management",
+                  "task-management",
+                  "team-collaboration",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -28,12 +46,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mobile first Note Taking integrated with Git",
+                "homepage": "https://gitjournal.io",
                 "id": 165047811,
                 "language": "Dart",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-05-26T13:49:39Z",
+                "open_issues": 132,
                 "owner": "GitJournal",
                 "repo": "GitJournal",
-                "stars": 4212
+                "stars": 4212,
+                "topics": [
+                  "git",
+                  "google-keep",
+                  "journal",
+                  "knowledge-graph",
+                  "knowledge-management",
+                  "markdown",
+                  "memex",
+                  "note-taking",
+                  "notes",
+                  "notes-app"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -44,12 +78,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)",
+                "homepage": null,
                 "id": 10671623,
                 "language": "C++",
+                "license": "Zlib",
                 "last_commit": "2026-08-28T05:03:18Z",
+                "open_issues": 73,
                 "owner": "aardappel",
                 "repo": "treesheets",
-                "stars": 3102
+                "stars": 3102,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -60,12 +99,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Next generation of Tomboy",
+                "homepage": null,
                 "id": 111233587,
                 "language": "Pascal",
+                "license": "MIT",
                 "last_commit": "2026-08-02T11:39:52Z",
+                "open_issues": 32,
                 "owner": "tomboy-notes",
                 "repo": "tomboy-ng",
-                "stars": 446
+                "stars": 446,
+                "topics": [
+                  "cross-platform",
+                  "freepascal",
+                  "linux",
+                  "mac",
+                  "note-taking",
+                  "notes-app",
+                  "raspberry-pi",
+                  "synchronisation",
+                  "tomboy",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -76,12 +131,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local-first macOS study app with FSRS review, decks, study guides, exams, import/export, and a polished SwiftUI desktop interface.",
+                "homepage": "https://revu.cards",
                 "id": 1186746932,
                 "language": "Swift",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-12T18:00:32Z",
+                "open_issues": 6,
                 "owner": "JuliusBrussee",
                 "repo": "revu-swift",
-                "stars": 366
+                "stars": 366,
+                "topics": [
+                  "macos",
+                  "productivity",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -92,12 +156,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free open-source voice journal for iPhone with on-device AI. Every entry becomes a star in your private constellation. Built with SwiftUI, Apple Speech, NaturalLanguage, ActivityKit. MIT licensed.",
+                "homepage": "https://getdailyvox.com",
                 "id": 1176189721,
                 "language": "HTML",
-                "last_commit": "2026-08-27T23:23:24Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T15:40:29Z",
+                "open_issues": 0,
                 "owner": "intrepidkarthi",
                 "repo": "dailyvox",
-                "stars": 15
+                "stars": 16,
+                "topics": [
+                  "activitykit",
+                  "core-data",
+                  "digital-twin",
+                  "dynamic-island",
+                  "ios",
+                  "journaling",
+                  "live-activities",
+                  "mental-health",
+                  "mood-tracker",
+                  "nlp",
+                  "offline-first",
+                  "on-device-ai",
+                  "open-source",
+                  "privacy",
+                  "speech-recognition",
+                  "swift",
+                  "swiftui",
+                  "voice-diary",
+                  "voice-journal",
+                  "widgetkit"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             }
@@ -115,12 +205,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.",
+                "homepage": "https://xwmx.github.io/nb",
                 "id": 49516849,
                 "language": "Shell",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-26T00:51:47Z",
+                "open_issues": 151,
                 "owner": "xwmx",
                 "repo": "nb",
-                "stars": 8380
+                "stars": 8381,
+                "topics": [
+                  "archiving",
+                  "bash",
+                  "bookmark-manager",
+                  "bookmarks",
+                  "cli",
+                  "command-line",
+                  "git",
+                  "knowledge-base",
+                  "markdown",
+                  "note-taking",
+                  "notebook",
+                  "notes",
+                  "notes-app",
+                  "pandoc",
+                  "productivity",
+                  "shell",
+                  "sync",
+                  "vim",
+                  "vscode",
+                  "zettelkasten"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -131,12 +247,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "☑️ A simple and extensible shell script for managing your todo.txt file.",
+                "homepage": "http://todotxt.org",
                 "id": 144137,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-25T08:35:28Z",
+                "open_issues": 42,
                 "owner": "todotxt",
                 "repo": "todo.txt-cli",
-                "stars": 6164
+                "stars": 6165,
+                "topics": [
+                  "cli",
+                  "linux",
+                  "shell",
+                  "todo",
+                  "todo-cli",
+                  "todo-list",
+                  "todoapp",
+                  "todolist",
+                  "todos",
+                  "todotxt"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -147,12 +279,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A plain text note-taking assistant",
+                "homepage": "https://zk-org.github.io/zk/",
                 "id": 323932509,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-24T23:37:19Z",
+                "open_issues": 26,
                 "owner": "zk-org",
                 "repo": "zk",
-                "stars": 2777
+                "stars": 2776,
+                "topics": [
+                  "cli",
+                  "documentation-tool",
+                  "notes",
+                  "second-brain",
+                  "wiki",
+                  "zettelkasten"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -163,12 +307,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents",
+                "homepage": "https://iwe.md",
                 "id": 860188605,
                 "language": "Rust",
-                "last_commit": "2026-08-24T23:00:42Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T11:59:35Z",
+                "open_issues": 1,
                 "owner": "iwe-org",
                 "repo": "iwe",
-                "stars": 1581
+                "stars": 1582,
+                "topics": [
+                  "ai-agents",
+                  "ai-memory",
+                  "cli",
+                  "helix",
+                  "knowledge-graph",
+                  "knowledge-management",
+                  "language-server",
+                  "local-first",
+                  "lsp",
+                  "markdown",
+                  "mcp",
+                  "neovim",
+                  "note-taking",
+                  "notes",
+                  "okf",
+                  "pkm",
+                  "productivity",
+                  "rust",
+                  "zed",
+                  "zettelkasten"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -179,12 +349,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terminal-native LifeOS with an optional local Web UI for tasks, notes, habits, schedules, timelogs, relationships, and human-agent collaboration.",
+                "homepage": null,
                 "id": 1205537709,
                 "language": "Python",
-                "last_commit": "2026-08-28T02:49:25Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T06:45:36Z",
+                "open_issues": 1,
                 "owner": "lifeos-plus",
                 "repo": "lifeos-cli",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "agentic-workflows",
+                  "ai-agents",
+                  "cli",
+                  "fastapi",
+                  "habit-tracking",
+                  "lifeos",
+                  "local-first",
+                  "note-taking",
+                  "personal-crm",
+                  "postgresql",
+                  "python",
+                  "quantified-self",
+                  "react",
+                  "schedule-management",
+                  "second-brain",
+                  "sqlite",
+                  "task-management",
+                  "time-tracking",
+                  "vite",
+                  "web-ui"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             }
@@ -202,12 +398,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toney is a fast, lightweight, terminal-based note-taking app for the modern developer. ",
+                "homepage": "https://sourcewarelab.github.io/Toney/",
                 "id": 1004700893,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-05-27T06:13:16Z",
+                "open_issues": 3,
                 "owner": "SourcewareLab",
                 "repo": "Toney",
-                "stars": 202
+                "stars": 202,
+                "topics": [
+                  "bubbletea",
+                  "contributions-welcome",
+                  "go",
+                  "note",
+                  "note-taking",
+                  "notes",
+                  "open-source",
+                  "terminal",
+                  "terminal-ui",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -218,12 +430,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimalistic note management solution. Powered by fzf",
+                "homepage": null,
                 "id": 918057067,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T08:04:48Z",
+                "open_issues": 6,
                 "owner": "JianZcar",
                 "repo": "FuzPad",
-                "stars": 165
+                "stars": 165,
+                "topics": [
+                  "bash",
+                  "bash-script",
+                  "fzf",
+                  "note-managment",
+                  "note-taking",
+                  "notes",
+                  "script",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             }
@@ -241,12 +467,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Personal Wiki for Vim",
+                "homepage": "http://vimwiki.github.io/",
                 "id": 6698053,
                 "language": "Vim Script",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-30T18:15:10Z",
+                "open_issues": 230,
                 "owner": "vimwiki",
                 "repo": "vimwiki",
-                "stars": 9514
+                "stars": 9514,
+                "topics": [
+                  "hacktoberfest",
+                  "personal-organizer",
+                  "vim",
+                  "vim-plugin",
+                  "vimwiki",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -262,12 +500,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Org-mode wiki + concept-mapping",
+                    "homepage": null,
                     "id": 85571873,
                     "language": "Emacs Lisp",
+                    "license": "MIT",
                     "last_commit": "2024-07-03T20:50:02Z",
+                    "open_issues": 91,
                     "owner": "Kungsgeten",
                     "repo": "org-brain",
-                    "stars": 1769
+                    "stars": 1769,
+                    "topics": [
+                      "concept-map",
+                      "emacs",
+                      "org-mode",
+                      "wiki"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:05:37.679Z"
                 },
@@ -278,12 +526,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Deft for Emacs",
+                    "homepage": "http://jblevins.org/projects/deft/",
                     "id": 36702593,
                     "language": "Emacs Lisp",
+                    "license": null,
                     "last_commit": "2024-05-24T15:24:04Z",
+                    "open_issues": 54,
                     "owner": "jrblevin",
                     "repo": "deft",
-                    "stars": 759
+                    "stars": 759,
+                    "topics": [
+                      "emacs",
+                      "emacs-mode",
+                      "filter-string",
+                      "note-taking",
+                      "plain-text",
+                      "search"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:05:37.679Z"
                 }
@@ -301,12 +561,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Emanate a structured view of your plain-text notes",
+                    "homepage": "https://emanote.srid.ca",
                     "id": 365784056,
                     "language": "Haskell",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-26T02:43:15Z",
+                    "open_issues": 43,
                     "owner": "srid",
                     "repo": "emanote",
-                    "stars": 956
+                    "stars": 957,
+                    "topics": [
+                      "ema",
+                      "haskell",
+                      "markdown",
+                      "obsidian-md",
+                      "orgmode",
+                      "pandoc",
+                      "static-site",
+                      "zettelkasten"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:05:37.679Z"
                 }
@@ -326,12 +600,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+                "homepage": "https://affine.pro",
                 "id": 519859998,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T04:50:12Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T13:24:46Z",
+                "open_issues": 714,
                 "owner": "toeverything",
                 "repo": "AFFiNE",
-                "stars": 71963
+                "stars": 71984,
+                "topics": [
+                  "app",
+                  "crdt",
+                  "editor",
+                  "electron",
+                  "knowledge-base",
+                  "markdown",
+                  "miro",
+                  "notes",
+                  "notion",
+                  "notion-alternative",
+                  "rust",
+                  "rust-lang",
+                  "rust-language",
+                  "table",
+                  "tableview",
+                  "whiteboard",
+                  "wiki",
+                  "workspace"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -342,12 +640,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作",
+                "homepage": "https://b3log.org/siyuan",
                 "id": 291438522,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T06:01:12Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T03:34:12Z",
+                "open_issues": 49,
                 "owner": "siyuan-note",
                 "repo": "siyuan",
-                "stars": 46017
+                "stars": 46025,
+                "topics": [
+                  "agentic-ai",
+                  "ai-agent",
+                  "digital-garden",
+                  "electron",
+                  "knowledge-base",
+                  "knowledge-graph",
+                  "local-first",
+                  "markdown",
+                  "mcp",
+                  "note-taking",
+                  "notebook",
+                  "notes-app",
+                  "pdf",
+                  "pkm",
+                  "s3",
+                  "self-hosted",
+                  "siyuan",
+                  "webdav",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -358,12 +681,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
+                "homepage": "https://logseq.com",
                 "id": 266231149,
                 "language": "Clojure",
-                "last_commit": "2026-08-27T18:01:24Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-28T17:16:24Z",
+                "open_issues": 963,
                 "owner": "logseq",
                 "repo": "logseq",
-                "stars": 44658
+                "stars": 44672,
+                "topics": [
+                  "clojure",
+                  "clojurescript",
+                  "git",
+                  "graph",
+                  "knowledge-base",
+                  "knowledge-graph",
+                  "local-first",
+                  "markdown",
+                  "note-taking",
+                  "org-mode",
+                  "pkm"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -374,12 +714,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.",
+                "homepage": "https://standardnotes.com",
                 "id": 75675698,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-25T23:24:10Z",
+                "open_issues": 95,
                 "owner": "standardnotes",
                 "repo": "app",
-                "stars": 6605
+                "stars": 6608,
+                "topics": [
+                  "encrypted",
+                  "evernote",
+                  "markdown",
+                  "note-taking",
+                  "notes",
+                  "privacy",
+                  "secure",
+                  "snippets"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -390,12 +744,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TidGi is an privacy-in-mind, automated, auto-git-backup, freely-deployed knowledge management Desktop note app, based on Tiddlywiki, with REST API for web-clipping and Anki connect. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。（迭代开发中欢迎试用，开发进度见下方链接）(Under active development, see website below for details) ",
+                "homepage": "https://tidgi.fun",
                 "id": 271776886,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T23:11:27Z",
+                "license": "MPL-2.0",
+                "last_commit": "2026-08-28T12:13:11Z",
+                "open_issues": 14,
                 "owner": "tiddly-gittly",
                 "repo": "TidGi-Desktop",
-                "stars": 1999
+                "stars": 2000,
+                "topics": [
+                  "all-in-one",
+                  "anki",
+                  "backlinks",
+                  "electron",
+                  "evernote",
+                  "knowledge-graph",
+                  "knowledge-management",
+                  "linux",
+                  "local-first",
+                  "macos",
+                  "note-taking",
+                  "notebook",
+                  "notes-app",
+                  "notion",
+                  "obsidian",
+                  "pkm",
+                  "tiddlywiki",
+                  "tiddlywiki5",
+                  "windows",
+                  "zettelkasten"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -406,12 +786,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source Medium alternative- set up your personal blog in minutes.",
+                "homepage": "https://btw.so",
                 "id": 605971272,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-15T20:00:34Z",
+                "open_issues": 15,
                 "owner": "btw-so",
                 "repo": "btw",
-                "stars": 1253
+                "stars": 1253,
+                "topics": [
+                  "blog-platform",
+                  "medium",
+                  "no-code",
+                  "note-taking",
+                  "notes-app",
+                  "personal-blog",
+                  "website-builder"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -422,12 +815,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🧾  Daily journaling without distraction. An easy, distraction-free way to record your thoughts, declutter your mind and keep the things you want to remember. Join the discord at https://discord.gg/uNjJzZvccr",
+                "homepage": "https://uselinked.com",
                 "id": 349164988,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-17T06:32:50Z",
+                "open_issues": 13,
                 "owner": "lostdesign",
                 "repo": "linked",
-                "stars": 1017
+                "stars": 1017,
+                "topics": [
+                  "calendar",
+                  "daily",
+                  "electron",
+                  "hacktoberfest",
+                  "journal",
+                  "minimal",
+                  "note-taking",
+                  "notes",
+                  "sponsor",
+                  "tailwindcss",
+                  "thoughts",
+                  "vue",
+                  "yarn"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -438,12 +850,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pattern. An Obsidian alternative for personal knowledge management, AI second brain, and durable Claude Code / Codex / OpenClaw memory.",
+                "homepage": "https://www.swarmvault.ai",
                 "id": 1203219280,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-30T20:28:43Z",
+                "open_issues": 8,
                 "owner": "swarmclawai",
                 "repo": "swarmvault",
-                "stars": 673
+                "stars": 673,
+                "topics": [
+                  "agent-memory",
+                  "ai-agents",
+                  "claude-code",
+                  "claude-code-memory",
+                  "codex",
+                  "karpathy",
+                  "knowledge-graph",
+                  "llm",
+                  "llm-wiki",
+                  "local-first",
+                  "mcp",
+                  "mcp-server",
+                  "obsidian",
+                  "obsidian-alternative",
+                  "openclaw",
+                  "opencode",
+                  "personal-knowledge-management",
+                  "pkm",
+                  "rag",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             }
@@ -461,12 +899,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markdown editor that gets out of your way. Lightweight, fast, portable. First release of https://4worlds.dev",
+                "homepage": "https://inkwell.4worlds.dev/",
                 "id": 1165736327,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-12T19:52:00Z",
+                "open_issues": 6,
                 "owner": "4worlds4w-svg",
                 "repo": "inkwell",
-                "stars": 255
+                "stars": 255,
+                "topics": [
+                  "electron-alternative",
+                  "focus-mode",
+                  "local-first",
+                  "markdown-editor",
+                  "no-telemetry",
+                  "offline-first",
+                  "portable",
+                  "privacy-tools",
+                  "rust",
+                  "tauri2",
+                  "text-editor",
+                  "writing-tool"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -477,12 +933,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Instant thought capture for macOS. One shortcut, post-it appears, type, close.",
+                "homepage": "https://www.stik.ink",
                 "id": 1150833483,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-02T18:22:45Z",
+                "open_issues": 7,
                 "owner": "0xMassi",
                 "repo": "stik_app",
-                "stars": 246
+                "stars": 246,
+                "topics": [
+                  "ai",
+                  "keyboard-first",
+                  "local-first",
+                  "mac-app",
+                  "macos",
+                  "markdown",
+                  "nlp",
+                  "note-taking",
+                  "notes-app",
+                  "obsidian-alternative",
+                  "on-device-ai",
+                  "open-source",
+                  "pkm",
+                  "privacy",
+                  "productivity",
+                  "quick-capture",
+                  "react",
+                  "rust",
+                  "sticky-notes",
+                  "tauri"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             }
@@ -500,12 +982,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.",
+                "homepage": "https://usememos.com",
                 "id": 436297812,
                 "language": "Go",
-                "last_commit": "2026-08-27T17:06:52Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T15:12:10Z",
+                "open_issues": 45,
                 "owner": "usememos",
                 "repo": "memos",
-                "stars": 62604
+                "stars": 62625,
+                "topics": [
+                  "docker",
+                  "foss",
+                  "go",
+                  "markdown",
+                  "memo",
+                  "microblog",
+                  "note-taking",
+                  "notecard",
+                  "own-your-data",
+                  "react",
+                  "self-hosted",
+                  "social-network",
+                  "sqlite"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -516,12 +1017,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
+                "homepage": "https://www.getoutline.com",
                 "id": 59435364,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T04:49:47Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T02:59:37Z",
+                "open_issues": 82,
                 "owner": "outline",
                 "repo": "outline",
-                "stars": 40356
+                "stars": 40366,
+                "topics": [
+                  "docker",
+                  "javascript",
+                  "mobx",
+                  "nodejs",
+                  "react",
+                  "slack",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -532,12 +1046,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.",
+                "homepage": "https://docmost.com",
                 "id": 674295265,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T23:07:17Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-28T22:05:39Z",
+                "open_issues": 326,
                 "owner": "docmost",
                 "repo": "docmost",
-                "stars": 21500
+                "stars": 21505,
+                "topics": [
+                  "confluence",
+                  "documentation",
+                  "drawio",
+                  "knowledge-base",
+                  "mediawiki",
+                  "miro",
+                  "notion",
+                  "notion-alternative",
+                  "open-source",
+                  "opensource",
+                  "quip",
+                  "realtime-collaboration",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -548,12 +1081,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+                "homepage": "https://notesnook.com/",
                 "id": 353775942,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T09:27:44Z",
+                "open_issues": 985,
                 "owner": "streetwriters",
                 "repo": "notesnook",
-                "stars": 14478
+                "stars": 14481,
+                "topics": [
+                  "asp-net-core",
+                  "dotnet-core",
+                  "electron",
+                  "foss",
+                  "hacktoberfest",
+                  "note-managment",
+                  "note-taking",
+                  "note-taking-app",
+                  "notebook",
+                  "notes",
+                  "notes-app",
+                  "open-source",
+                  "opensource",
+                  "privacy",
+                  "productivity",
+                  "react",
+                  "react-native",
+                  "reactjs",
+                  "self-hosted"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -564,12 +1122,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CodiMD - Realtime collaborative markdown notes on all platforms.",
+                "homepage": "https://hackmd.io/c/codimd-documentation",
                 "id": 35017238,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-10-02T02:51:07Z",
+                "open_issues": 352,
                 "owner": "hackmdio",
                 "repo": "codimd",
-                "stars": 10136
+                "stars": 10136,
+                "topics": [
+                  "codimd",
+                  "collaboration",
+                  "hackmd",
+                  "markdown",
+                  "notes",
+                  "realtime"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -580,12 +1150,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.",
+                "homepage": "https://tiddlywiki.com/",
                 "id": 2828239,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T16:24:43Z",
+                "open_issues": 1160,
                 "owner": "TiddlyWiki",
                 "repo": "TiddlyWiki5",
-                "stars": 8632
+                "stars": 8632,
+                "topics": [
+                  "hacktoberfest",
+                  "html",
+                  "javascript",
+                  "linux",
+                  "notepad",
+                  "notes",
+                  "tiddlywiki",
+                  "wiki",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -596,12 +1181,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HedgeDoc - Ideas grow better together",
+                "homepage": "https://hedgedoc.org",
                 "id": 177987738,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T12:13:26Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-28T13:17:42Z",
+                "open_issues": 268,
                 "owner": "hedgedoc",
                 "repo": "hedgedoc",
-                "stars": 7383
+                "stars": 7386,
+                "topics": [
+                  "codimd",
+                  "collaboration",
+                  "diagrams",
+                  "editor",
+                  "hackmd",
+                  "hacktoberfest",
+                  "hedgedoc",
+                  "markdown",
+                  "notes",
+                  "real-time"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -612,12 +1213,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua",
+                "homepage": "https://silverbullet.md",
                 "id": 459944886,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T07:14:42Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T15:11:36Z",
+                "open_issues": 335,
                 "owner": "silverbulletmd",
                 "repo": "silverbullet",
-                "stars": 5943
+                "stars": 5947,
+                "topics": [
+                  "end-user-programming",
+                  "knowledge-management",
+                  "lua",
+                  "markdown",
+                  "note-taking",
+                  "personal-knowledge-management"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -628,12 +1241,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.",
+                "homepage": null,
                 "id": 392310812,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2026-08-02T11:19:11Z",
+                "open_issues": 124,
                 "owner": "dullage",
                 "repo": "flatnotes",
-                "stars": 3203
+                "stars": 3205,
+                "topics": [
+                  "markdown",
+                  "note",
+                  "note-taking",
+                  "notes",
+                  "notes-app",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -644,12 +1269,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Ephemeral Markdown Paper. Less but handy features for plain Markdown lovers.",
+                "homepage": "https://ephe.app",
                 "id": 948841811,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-15T06:24:43Z",
+                "open_issues": 4,
                 "owner": "unvalley",
                 "repo": "ephe",
-                "stars": 583
+                "stars": 583,
+                "topics": [
+                  "codemirror",
+                  "local-first",
+                  "markdown",
+                  "notes",
+                  "react",
+                  "tailwindcss",
+                  "todo",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -660,12 +1299,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Take time-stamped YouTube notes",
+                "homepage": null,
                 "id": 441933276,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-13T08:50:03Z",
+                "open_issues": 8,
                 "owner": "ahmedelq",
                 "repo": "NattyNote",
-                "stars": 114
+                "stars": 114,
+                "topics": [
+                  "browser-extension",
+                  "chome-extension",
+                  "chrome",
+                  "edge-extension",
+                  "firefox",
+                  "firefox-addon",
+                  "web-extension",
+                  "youtube"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             },
@@ -676,12 +1329,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimalistic private note-taking app with focus on typography",
+                "homepage": "https://johnsamilin.github.io",
                 "id": 947168743,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-08-02T08:45:14Z",
+                "open_issues": 9,
                 "owner": "johnSamilin",
                 "repo": "solo",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "freedom",
+                  "independence",
+                  "indiedev",
+                  "local-first",
+                  "note-taking",
+                  "offline-first",
+                  "onyx-boox",
+                  "privacy",
+                  "typography",
+                  "writing-tool"
+                ]
               },
               "first_seen": "2026-08-28T06:05:37.679Z"
             }
@@ -703,12 +1372,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
+            "homepage": "https://logseq.com",
             "id": 266231149,
             "language": "Clojure",
-            "last_commit": "2026-08-27T18:01:24Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-28T17:16:24Z",
+            "open_issues": 963,
             "owner": "logseq",
             "repo": "logseq",
-            "stars": 44658
+            "stars": 44672,
+            "topics": [
+              "clojure",
+              "clojurescript",
+              "git",
+              "graph",
+              "knowledge-base",
+              "knowledge-graph",
+              "local-first",
+              "markdown",
+              "note-taking",
+              "org-mode",
+              "pkm"
+            ]
           },
           "first_seen": "2026-08-28T06:05:37.679Z"
         },
@@ -719,12 +1405,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作",
+            "homepage": "https://b3log.org/siyuan",
             "id": 291438522,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T06:01:12Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T03:34:12Z",
+            "open_issues": 49,
             "owner": "siyuan-note",
             "repo": "siyuan",
-            "stars": 46017
+            "stars": 46025,
+            "topics": [
+              "agentic-ai",
+              "ai-agent",
+              "digital-garden",
+              "electron",
+              "knowledge-base",
+              "knowledge-graph",
+              "local-first",
+              "markdown",
+              "mcp",
+              "note-taking",
+              "notebook",
+              "notes-app",
+              "pdf",
+              "pkm",
+              "s3",
+              "self-hosted",
+              "siyuan",
+              "webdav",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-28T06:05:37.679Z"
         },
@@ -735,12 +1446,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+            "homepage": "https://affine.pro",
             "id": 519859998,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T04:50:12Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T13:24:46Z",
+            "open_issues": 714,
             "owner": "toeverything",
             "repo": "AFFiNE",
-            "stars": 71963
+            "stars": 71984,
+            "topics": [
+              "app",
+              "crdt",
+              "editor",
+              "electron",
+              "knowledge-base",
+              "markdown",
+              "miro",
+              "notes",
+              "notion",
+              "notion-alternative",
+              "rust",
+              "rust-lang",
+              "rust-language",
+              "table",
+              "tableview",
+              "whiteboard",
+              "wiki",
+              "workspace"
+            ]
           },
           "first_seen": "2026-08-28T06:05:37.679Z"
         },
@@ -751,12 +1486,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+            "homepage": "https://appflowy.com",
             "id": 377496562,
             "language": "Dart",
-            "last_commit": "2026-08-11T13:01:19Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-28T06:32:59Z",
+            "open_issues": 1008,
             "owner": "AppFlowy-IO",
             "repo": "AppFlowy",
-            "stars": 76021
+            "stars": 76044,
+            "topics": [
+              "blog",
+              "confluence-alternative",
+              "content-management",
+              "content-services",
+              "documentation",
+              "flutter",
+              "note-taking",
+              "notion-alternative",
+              "project-management",
+              "task-management",
+              "team-collaboration",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-28T06:05:37.679Z"
         },
@@ -767,12 +1520,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.",
+            "homepage": "https://standardnotes.com",
             "id": 75675698,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-25T23:24:10Z",
+            "open_issues": 95,
             "owner": "standardnotes",
             "repo": "app",
-            "stars": 6605
+            "stars": 6608,
+            "topics": [
+              "encrypted",
+              "evernote",
+              "markdown",
+              "note-taking",
+              "notes",
+              "privacy",
+              "secure",
+              "snippets"
+            ]
           },
           "first_seen": "2026-08-28T06:05:37.679Z"
         },
@@ -783,12 +1550,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+            "homepage": "https://notesnook.com/",
             "id": 353775942,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T09:27:44Z",
+            "open_issues": 985,
             "owner": "streetwriters",
             "repo": "notesnook",
-            "stars": 14478
+            "stars": 14481,
+            "topics": [
+              "asp-net-core",
+              "dotnet-core",
+              "electron",
+              "foss",
+              "hacktoberfest",
+              "note-managment",
+              "note-taking",
+              "note-taking-app",
+              "notebook",
+              "notes",
+              "notes-app",
+              "open-source",
+              "opensource",
+              "privacy",
+              "productivity",
+              "react",
+              "react-native",
+              "reactjs",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T06:05:37.679Z"
         }
@@ -797,15 +1589,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:05:37.679Z",
+    "last_updated": "2026-08-29T03:42:23.157Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.",
+      "homepage": null,
       "id": 231954058,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-04-20T10:32:20Z",
+      "open_issues": 65,
       "owner": "tehtbl",
       "repo": "awesome-note-taking",
-      "stars": 949
+      "stars": 949,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "knowledge-base",
+        "markdown",
+        "note-taking",
+        "note-taking-apps",
+        "notes",
+        "personal-knowledge-system",
+        "pkm",
+        "productivity",
+        "self-hosted",
+        "zettelkasten"
+      ]
     },
     "original_repository_sha": "073687fe67ccf8e9eac805a1834f358144a05900",
     "enhanced_repository": "enhansome/enhansome-note-taking",
