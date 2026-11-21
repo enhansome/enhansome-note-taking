@@ -53,12 +53,12 @@
 
 ### Native GUI
 
-* 📕🍎🤖🔁 [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ⭐ 79,225 | 🐛 1,040 | 🌐 Dart | 📅 2026-11-15 - Open source alternative to Notion. Supports macOS, Windows, Linux, iOS, and Android. `AGPL-3.0` `Flutter/Dart`
+* 📕🍎🤖🔁 [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ⭐ 79,277 | 🐛 1,043 | 🌐 Dart | 📅 2026-11-15 - Open source alternative to Notion. Supports macOS, Windows, Linux, iOS, and Android. `AGPL-3.0` `Flutter/Dart`
 * 📖🍎🤖🔁 [GitJournal](https://github.com/GitJournal/GitJournal) ⭐ 4,247 | 🐛 133 | 🌐 Dart | 📅 2026-05-26 - Open source markdown notes editor with integrated Git syncing. Supports iOS, Android, Linux, and macOS. `AGPL-3.0` `Flutter/Dart`
-* 📕 [treesheets](https://github.com/aardappel/treesheets) ⭐ 3,210 | 🐛 53 | 🌐 C++ | 📅 2026-11-17 - Free form data organizer using hierarchical spreadsheet. `Zlib` `C++`
+* 📕 [treesheets](https://github.com/aardappel/treesheets) ⭐ 3,211 | 🐛 53 | 🌐 C++ | 📅 2026-11-17 - Free form data organizer using hierarchical spreadsheet. `Zlib` `C++`
 * 🤖🔁⚠️ [Tomboy](https://wiki.gnome.org/Apps/Tomboy) - GNOME desktop note-taking application for Linux, Windows, and macOS. Original project abandoned; see [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) ⭐ 453 | 🐛 37 | 🌐 Pascal | 📅 2026-10-16 for the active successor. `LGPL-2.1` `C#/Mono`
 * 📕 [Revu](https://github.com/JuliusBrussee/revu-swift) ⭐ 387 | 🐛 6 | 🌐 Swift | 📅 2026-04-12 - Local-first spaced repetition note-taking app for macOS with FSRS scheduling, Anki import, and study guides. `GPL-3.0` `Swift/SwiftUI`
-* 📕🍎🔁 [DailyVox](https://github.com/intrepidkarthi/dailyvox) ⭐ 24 | 🐛 4 | 🌐 HTML | 📅 2026-11-19 - Free AI voice diary for iOS with on-device transcription, mood tracking, Digital Twin, and knowledge graph. 100% offline, optional iCloud sync. `MIT` `Swift/SwiftUI`
+* 📕🍎🔁 [DailyVox](https://github.com/intrepidkarthi/dailyvox) ⭐ 24 | 🐛 4 | 🌐 HTML | 📅 2026-11-20 - Free AI voice diary for iOS with on-device transcription, mood tracking, Digital Twin, and knowledge graph. 100% offline, optional iCloud sync. `MIT` `Swift/SwiftUI`
 * 📕 [Cherrytree](http://www.giuspen.com/cherrytree) - A hierarchical note-taking app featuring rich text and syntax highlighting. `GPL-3.0` `Qt/C++`
 * 📖 [Fluster](https://fluster-one.vercel.app) - All-in-one note-taking solution for modern students and academics, powered by Rust with integrated AI. `?` `Rust/TypeScript`
 * 📖 [Leo](https://leo-editor.github.io/) - PIM, IDE, and outliner that accelerates the work flow of programmers, authors, and web designers. `MIT` `Python`
@@ -70,17 +70,17 @@
 
 ### CLI
 
-* 📖 [nb](https://github.com/xwmx/nb) ⭐ 8,478 | 🐛 154 | 🌐 Shell | 📅 2026-11-11 - A command line and local web note-taking, bookmarking, archiving, and knowledge base application. `AGPL-3.0` `Shell`
+* 📖 [nb](https://github.com/xwmx/nb) ⭐ 8,477 | 🐛 154 | 🌐 Shell | 📅 2026-11-11 - A command line and local web note-taking, bookmarking, archiving, and knowledge base application. `AGPL-3.0` `Shell`
 * 📖 [todo-txt](https://github.com/todotxt/todo.txt-cli) ⭐ 6,201 | 🐛 7 | 🌐 Shell | 📅 2026-11-18 - A simple and extensible shell script for managing your todo.txt file. `GPL-3.0` `Shell`
-* 📖 [zk](https://github.com/mickael-menu/zk) ⭐ 2,873 | 🐛 32 | 🌐 Go | 📅 2026-11-18 - A command-line tool helping you to maintain a plain text Zettelkasten or personal wiki. `GPL-3.0` `Go`
-* 📖 [IWE](https://github.com/iwe-org/iwe) ⭐ 1,829 | 🐛 2 | 🌐 Rust | 📅 2026-11-20 - A markdown-based knowledge management tool with CLI and LSP server. Turns markdown files into a navigable graph with backlinks and link completion. Works with VS Code, Neovim, Zed, and Helix. `Apache-2.0` `Rust`
+* 📖 [zk](https://github.com/mickael-menu/zk) ⭐ 2,874 | 🐛 33 | 🌐 Go | 📅 2026-11-18 - A command-line tool helping you to maintain a plain text Zettelkasten or personal wiki. `GPL-3.0` `Go`
+* 📖 [IWE](https://github.com/iwe-org/iwe) ⭐ 1,832 | 🐛 2 | 🌐 Rust | 📅 2026-11-20 - A markdown-based knowledge management tool with CLI and LSP server. Turns markdown files into a navigable graph with backlinks and link completion. Works with VS Code, Neovim, Zed, and Helix. `Apache-2.0` `Rust`
 * 📕 [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) ⭐ 15 | 🐛 2 | 🌐 Python | 📅 2026-11-19 - A terminal-native LifeOS for notes, linked tasks, schedules, events, and timelogs. `Apache-2.0` `Python`
 
 <p align="right"><a href="#contents">back to top</a></p>
 
 ### TUI
 
-* 📖 [Toney](https://github.com/SourcewareLab/Toney) ⭐ 211 | 🐛 5 | 🌐 Go | 📅 2026-05-27 - A fast, lightweight, terminal-based note-taking app for the modern developer. `MIT` `Go`
+* 📖 [Toney](https://github.com/SourcewareLab/Toney) ⭐ 212 | 🐛 5 | 🌐 Go | 📅 2026-05-27 - A fast, lightweight, terminal-based note-taking app for the modern developer. `MIT` `Go`
 * 📖 [FuzPad](https://github.com/JianZcar/FuzPad) ⭐ 165 | 🐛 6 | 🌐 Shell | 📅 2026-08-27 - A minimalistic note management solution powered by fzf. `GPL-3.0` `Shell`
 
 <p align="right"><a href="#contents">back to top</a></p>
@@ -103,14 +103,14 @@
 
 ### Electron
 
-* 📕🔁 [AFFiNE](https://github.com/toeverything/AFFiNE) ⭐ 75,240 | 🐛 842 | 🌐 TypeScript | 📅 2026-11-19 - Next-gen knowledge base that brings planning, sorting, and creating all together. Privacy first, open-source, customizable and ready to use. `MIT` `Electron/TypeScript`
-* 📕🍎🤖🔁 [SiYuan](https://github.com/siyuan-note/siyuan) ⭐ 47,294 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-20 - A privacy-first, self-hosted, fully open source personal knowledge management software. `AGPL-3.0` `Electron/TypeScript+Go`
-* 📖🍎🤖🔁 [Logseq](https://github.com/logseq/logseq) ⭐ 45,670 | 🐛 938 | 🌐 Clojure | 📅 2026-11-20 - Local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base. `AGPL-3.0` `Electron/ClojureScript`
-* 📖🍎🤖🔒🔁 [Standard Notes](https://github.com/standardnotes/app) ⭐ 6,727 | 🐛 97 | 🌐 TypeScript | 📅 2026-11-13 - A free, open-source, and completely encrypted notes app for macOS, Windows, Linux, iOS, and Android. `AGPL-3.0` `Electron/TypeScript`
+* 📕🔁 [AFFiNE](https://github.com/toeverything/AFFiNE) ⭐ 75,857 | 🐛 842 | 🌐 TypeScript | 📅 2026-11-20 - Next-gen knowledge base that brings planning, sorting, and creating all together. Privacy first, open-source, customizable and ready to use. `MIT` `Electron/TypeScript`
+* 📕🍎🤖🔁 [SiYuan](https://github.com/siyuan-note/siyuan) ⭐ 47,311 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-21 - A privacy-first, self-hosted, fully open source personal knowledge management software. `AGPL-3.0` `Electron/TypeScript+Go`
+* 📖🍎🤖🔁 [Logseq](https://github.com/logseq/logseq) ⭐ 45,683 | 🐛 938 | 🌐 Clojure | 📅 2026-11-21 - Local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base. `AGPL-3.0` `Electron/ClojureScript`
+* 📖🍎🤖🔒🔁 [Standard Notes](https://github.com/standardnotes/app) ⭐ 6,728 | 🐛 99 | 🌐 TypeScript | 📅 2026-11-20 - A free, open-source, and completely encrypted notes app for macOS, Windows, Linux, iOS, and Android. `AGPL-3.0` `Electron/TypeScript`
 * 📖🤖🔁 [TidGi](https://github.com/tiddly-gittly/TidGi-Desktop) ⭐ 2,013 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-19 - Customizable personal knowledge-base with git as backup manager and blogging platform, based on TiddlyWiki. `MPL-2.0` `Electron/TypeScript`
 * 📖 [btw](https://github.com/btw-so/btw) ⭐ 1,257 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-15 - Open source personal website builder. `GPL-3.0` `Electron/JavaScript`
 * 📖 [Linked](https://github.com/lostdesign/linked) ⭐ 1,022 | 🐛 13 | 🌐 JavaScript | 📅 2024-07-17 - Forget less by daily journaling, completely offline, secure, and free. Supports macOS, Windows, and Linux. `GPL-3.0` `Electron/TypeScript`
-* 📖 [SwarmVault](https://github.com/swarmclawai/swarmvault) ⭐ 736 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-30 - Local-first RAG knowledge base compiler with persistent markdown wiki, knowledge graph, hybrid SQLite FTS and embeddings, contradiction detection, and built-in MCP server. `MIT` `Node.js/TypeScript`
+* 📖 [SwarmVault](https://github.com/swarmclawai/swarmvault) ⭐ 737 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-30 - Local-first RAG knowledge base compiler with persistent markdown wiki, knowledge graph, hybrid SQLite FTS and embeddings, contradiction detection, and built-in MCP server. `MIT` `Node.js/TypeScript`
 * 📕🍎🤖🔒🔁 [AnyType](https://anytype.io/) - Open source local-first app for tasks, notes, and more with E2EE and cross-platform sync. `Source-available` `Electron/TypeScript`
 * 📖 [Bangle.io](https://bangle.io) - A free alternative to Notion that takes markdown notes saved right on your computer. `AGPL-3.0` `Web/TypeScript`
 * ⚠️ [Notable](https://notable.app/) - Simple note-taking app based on VS Code Editor. No longer open source as of v1.6. `Proprietary` `Electron/TypeScript`
@@ -121,8 +121,8 @@
 
 ### Tauri
 
-* 📖 [Stik](https://github.com/0xMassi/stik_app) ⭐ 269 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-16 - Instant thought capture for macOS. Global hotkey summons a post-it note, type and close. Notes stored as plain markdown files. `MIT` `Tauri/TypeScript+Rust`
-* 📖 [Inkwell](https://github.com/4worlds4w-svg/inkwell) ⭐ 261 | 🐛 10 | 📅 2026-06-12 - Portable Markdown editor with split view, live preview, themes, templates, focus mode, and diff viewer. `Source-available` `Tauri/Rust`
+* 📖 [Stik](https://github.com/0xMassi/stik_app) ⭐ 270 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-16 - Instant thought capture for macOS. Global hotkey summons a post-it note, type and close. Notes stored as plain markdown files. `MIT` `Tauri/TypeScript+Rust`
+* 📖 [Inkwell](https://github.com/4worlds4w-svg/inkwell) ⭐ 262 | 🐛 10 | 📅 2026-06-12 - Portable Markdown editor with split view, live preview, themes, templates, focus mode, and diff viewer. `Source-available` `Tauri/Rust`
 * 📖🍎 [Char](https://github.com/fastrepl/char) - Open-source AI notepad for meetings with flexible AI stack and on-device storage. `GPL-3.0` `Tauri/Rust+TypeScript`
 * 📕 [Treedome](https://codeberg.org/solver-orgz/treedome) - Open-source and local-first, encrypted note-taking application organized in tree-like structures. `AGPL-3.0` `Tauri/Rust`
 
@@ -130,17 +130,17 @@
 
 ### Web UI
 
-* 📖🔁 [Memos](https://github.com/usememos/memos) ⭐ 64,580 | 🐛 63 | 🌐 Go | 📅 2026-11-20 - Lightweight, self-hosted memo hub. Privacy first. `MIT` `Go/React`
-* 📖 [Outline](https://github.com/outline/outline) ⭐ 41,320 | 🐛 62 | 🌐 TypeScript | 📅 2026-11-20 - Fast, collaborative team knowledge base. Self-hosted or cloud. `BSL-1.1` `Web/TypeScript`
-* 📖 [Docmost](https://github.com/docmost/docmost) ⭐ 22,385 | 🐛 301 | 🌐 TypeScript | 📅 2026-11-20 - Open-source collaborative wiki and documentation software. Notion/Confluence alternative with real-time collaboration. `AGPL-3.0` `Web/TypeScript`
-* 📖🍎🤖🔒🔁 [Notesnook](https://github.com/streetwriters/notesnook) ⭐ 14,951 | 🐛 1,171 | 🌐 TypeScript | 📅 2026-11-19 - Fully open source and end-to-end encrypted note-taking app available on all platforms. `GPL-3.0` `Web/TypeScript`
-* 📖⚠️ [CodiMD](https://github.com/hackmdio/codimd) ⭐ 10,165 | 🐛 360 | 🌐 JavaScript | 📅 2025-10-02 - The free software version of HackMD. See [HedgeDoc](https://hedgedoc.org/) for the active community fork. `AGPL-3.0` `Web/JavaScript`
-* 📖 [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) ⭐ 8,712 | 🐛 1,191 | 🌐 JavaScript | 📅 2026-11-17 - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda, and more. `BSD-3-Clause` `Web/JavaScript`
-* 📖 [HedgeDoc](https://github.com/hedgedoc/hedgedoc) ⭐ 7,517 | 🐛 285 | 🌐 TypeScript | 📅 2026-11-20 - Real-time collaborative markdown notes. Community successor to CodiMD. `AGPL-3.0` `Web/TypeScript`
-* 📖 [SilverBullet](https://github.com/silverbulletmd/silverbullet) ⭐ 6,563 | 🐛 391 | 🌐 TypeScript | 📅 2026-11-19 - Free, open-source self-hosted PWA for markdown notes. `MIT` `TypeScript/Go`
-* 📖 [Flatnotes](https://github.com/dullage/flatnotes) ⭐ 3,283 | 🐛 124 | 🌐 Vue | 📅 2026-08-29 - Self-hosted, database-less, plain-text markdown note-taking app. `MIT` `Python/Vue`
-* 📖 [Ephe](https://github.com/unvalley/ephe) ⭐ 599 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-19 - A Markdown paper for daily todo and thoughts. Privacy first, OSS, local-only. `MIT` `Web/TypeScript`
-* 📖 [NattyNote](https://github.com/ahmedelq/NattyNote) ⭐ 114 | 🐛 8 | 🌐 JavaScript | 📅 2025-10-13 - A free, open-source browser extension to take time-stamped YouTube notes. `GPL-3.0` `Browser Extension/JavaScript`
+* 📖🔁 [Memos](https://github.com/usememos/memos) ⭐ 64,597 | 🐛 62 | 🌐 Go | 📅 2026-11-20 - Lightweight, self-hosted memo hub. Privacy first. `MIT` `Go/React`
+* 📖 [Outline](https://github.com/outline/outline) ⭐ 41,330 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-20 - Fast, collaborative team knowledge base. Self-hosted or cloud. `BSL-1.1` `Web/TypeScript`
+* 📖 [Docmost](https://github.com/docmost/docmost) ⭐ 22,388 | 🐛 293 | 🌐 TypeScript | 📅 2026-11-21 - Open-source collaborative wiki and documentation software. Notion/Confluence alternative with real-time collaboration. `AGPL-3.0` `Web/TypeScript`
+* 📖🍎🤖🔒🔁 [Notesnook](https://github.com/streetwriters/notesnook) ⭐ 14,950 | 🐛 1,175 | 🌐 TypeScript | 📅 2026-11-20 - Fully open source and end-to-end encrypted note-taking app available on all platforms. `GPL-3.0` `Web/TypeScript`
+* 📖⚠️ [CodiMD](https://github.com/hackmdio/codimd) ⭐ 10,164 | 🐛 360 | 🌐 JavaScript | 📅 2025-10-02 - The free software version of HackMD. See [HedgeDoc](https://hedgedoc.org/) for the active community fork. `AGPL-3.0` `Web/JavaScript`
+* 📖 [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) ⭐ 8,711 | 🐛 1,191 | 🌐 JavaScript | 📅 2026-11-17 - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda, and more. `BSD-3-Clause` `Web/JavaScript`
+* 📖 [HedgeDoc](https://github.com/hedgedoc/hedgedoc) ⭐ 7,517 | 🐛 286 | 🌐 TypeScript | 📅 2026-11-20 - Real-time collaborative markdown notes. Community successor to CodiMD. `AGPL-3.0` `Web/TypeScript`
+* 📖 [SilverBullet](https://github.com/silverbulletmd/silverbullet) ⭐ 6,569 | 🐛 391 | 🌐 TypeScript | 📅 2026-11-20 - Free, open-source self-hosted PWA for markdown notes. `MIT` `TypeScript/Go`
+* 📖 [Flatnotes](https://github.com/dullage/flatnotes) ⭐ 3,284 | 🐛 124 | 🌐 Vue | 📅 2026-08-29 - Self-hosted, database-less, plain-text markdown note-taking app. `MIT` `Python/Vue`
+* 📖 [Ephe](https://github.com/unvalley/ephe) ⭐ 600 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-19 - A Markdown paper for daily todo and thoughts. Privacy first, OSS, local-only. `MIT` `Web/TypeScript`
+* 📖 [NattyNote](https://github.com/ahmedelq/NattyNote) ⭐ 115 | 🐛 8 | 🌐 JavaScript | 📅 2025-10-13 - A free, open-source browser extension to take time-stamped YouTube notes. `GPL-3.0` `Browser Extension/JavaScript`
 * 📕 [Solo](https://github.com/johnSamilin/solo) ⭐ 21 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-13 - Minimalistic private note-taking app with focus on typography. `MIT` `Web/TypeScript`
 * 📖 [Dokuwiki](https://www.dokuwiki.org/dokuwiki) - A simple to use and highly versatile open source wiki software that doesn't require a database. `GPL-2.0` `Web/PHP`
 * 📖 [Fossil](https://www2.fossil-scm.org/home/doc/trunk/www/index.wiki) - Source control software with built-in standalone wiki pages. `BSD-2-Clause` `C`
@@ -163,7 +163,7 @@
 * 📕🍎🤖🔁 [Heptabase](https://heptabase.com/) - Visual note-taking tool for learning complex topics, with whiteboard-based card organization.
 * 📕🍎🤖🔒🔁 [Inkdrop](https://www.inkdrop.info) - An app for organizing Markdown notes with E2EE sync. Available on macOS, Windows, Linux, iOS, and Android.
 * 📕🔁 [JournalCalls](https://journalcalls.com) - Voice journal and note-taking over a phone call. Exports to Markdown and Notion.
-* 📖 [MDLook](https://mdlook.com) ([GitHub](https://github.com/djosci/MDLook) ⭐ 123 | 🐛 7 | 📅 2026-10-04) - Portable offline Markdown editor for Windows using WebView2, with live preview, dark mode, KaTeX math, and Mermaid diagrams.
+* 📖 [MDLook](https://mdlook.com) ([GitHub](https://github.com/djosci/MDLook) ⭐ 124 | 🐛 7 | 📅 2026-10-04) - Portable offline Markdown editor for Windows using WebView2, with live preview, dark mode, KaTeX math, and Mermaid diagrams.
 * 📕🍎🔁 [Mem](https://get.mem.ai/) - AI-powered self-organizing workspace for notes and knowledge. Available on web and iOS.
 * 📕🍎🔁 [MindMirror](https://mindmirror.app) - Note app for busy minds with AI search and smart organization. iOS available, Android coming soon.
 * 📕🔁 [MindWork](https://mindwork.it.com/) - A Cursor-like AI workspace for deep and focused personal knowledge management.
@@ -200,13 +200,13 @@ A side-by-side overview of the most popular tools to help you choose:
 | -------------------------------------------------------------------------------------------------------------- | ------------ | --------- | ----------- | -------- | ----------------------------- | ------- | -------- |
 | [Obsidian](https://obsidian.md/)                                                                               | PKM          | Markdown  | paid add-on | optional | Win/Mac/Linux/iOS/Android     | 1800+   | Freemium |
 | [Joplin](https://joplinapp.org/)                                                                               | Notes        | Markdown  | yes         | yes      | Win/Mac/Linux/iOS/Android/CLI | yes     | Free     |
-| [Logseq](https://github.com/logseq/logseq) ⭐ 45,670 \| 🐛 938 \| 🌐 Clojure \| 📅 2026-11-20                   | PKM/Outliner | Markdown  | yes         | —        | Win/Mac/Linux/iOS/Android     | yes     | Free     |
-| [SiYuan](https://github.com/siyuan-note/siyuan) ⭐ 47,294 \| 🐛 4 \| 🌐 TypeScript \| 📅 2026-11-20             | PKM          | Database  | yes         | —        | Win/Mac/Linux/iOS/Android/Web | yes     | Freemium |
-| [AFFiNE](https://github.com/toeverything/AFFiNE) ⭐ 75,240 \| 🐛 842 \| 🌐 TypeScript \| 📅 2026-11-19          | Workspace    | Database  | yes         | —        | Win/Mac/Linux/Web             | yes     | Freemium |
-| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ⭐ 79,225 \| 🐛 1,040 \| 🌐 Dart \| 📅 2026-11-15           | Workspace    | Database  | yes         | —        | Win/Mac/Linux/iOS/Android     | yes     | Free     |
-| [Standard Notes](https://github.com/standardnotes/app) ⭐ 6,727 \| 🐛 97 \| 🌐 TypeScript \| 📅 2026-11-13      | Notes        | Encrypted | yes         | yes      | Win/Mac/Linux/iOS/Android/Web | yes     | Freemium |
+| [Logseq](https://github.com/logseq/logseq) ⭐ 45,683 \| 🐛 938 \| 🌐 Clojure \| 📅 2026-11-21                   | PKM/Outliner | Markdown  | yes         | —        | Win/Mac/Linux/iOS/Android     | yes     | Free     |
+| [SiYuan](https://github.com/siyuan-note/siyuan) ⭐ 47,311 \| 🐛 4 \| 🌐 TypeScript \| 📅 2026-11-21             | PKM          | Database  | yes         | —        | Win/Mac/Linux/iOS/Android/Web | yes     | Freemium |
+| [AFFiNE](https://github.com/toeverything/AFFiNE) ⭐ 75,857 \| 🐛 842 \| 🌐 TypeScript \| 📅 2026-11-20          | Workspace    | Database  | yes         | —        | Win/Mac/Linux/Web             | yes     | Freemium |
+| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ⭐ 79,277 \| 🐛 1,043 \| 🌐 Dart \| 📅 2026-11-15           | Workspace    | Database  | yes         | —        | Win/Mac/Linux/iOS/Android     | yes     | Free     |
+| [Standard Notes](https://github.com/standardnotes/app) ⭐ 6,728 \| 🐛 99 \| 🌐 TypeScript \| 📅 2026-11-20      | Notes        | Encrypted | yes         | yes      | Win/Mac/Linux/iOS/Android/Web | yes     | Freemium |
 | [AnyType](https://anytype.io/)                                                                                 | PKM          | Database  | yes         | yes      | Win/Mac/Linux/iOS/Android     | —       | Free     |
-| [Notesnook](https://github.com/streetwriters/notesnook) ⭐ 14,951 \| 🐛 1,171 \| 🌐 TypeScript \| 📅 2026-11-19 | Notes        | Encrypted | yes         | yes      | Win/Mac/Linux/iOS/Android/Web | —       | Freemium |
+| [Notesnook](https://github.com/streetwriters/notesnook) ⭐ 14,950 \| 🐛 1,175 \| 🌐 TypeScript \| 📅 2026-11-20 | Notes        | Encrypted | yes         | yes      | Win/Mac/Linux/iOS/Android/Web | —       | Freemium |
 | [TiddlyWiki](https://tiddlywiki.com/)                                                                          | Wiki         | HTML/JSON | 3rd-party   | —        | Web/Node.js                   | yes     | Free     |
 | [Org-mode](https://orgmode.org/)                                                                               | PKM          | Org files | 3rd-party   | —        | Emacs                         | yes     | Free     |
 | [Notion](https://notion.so/)                                                                                   | Workspace    | Cloud     | yes         | —        | Win/Mac/iOS/Android/Web       | yes     | Freemium |
@@ -222,4 +222,4 @@ Contributions are very welcome! Please, read the [contribution guidelines](contr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
